@@ -14,4 +14,5 @@ func main() {
 
 	circulo := pi * radio * radio
 	fmt.Println("Area del círculo: ", circulo)
+	fmt.Println(":D")
 }
